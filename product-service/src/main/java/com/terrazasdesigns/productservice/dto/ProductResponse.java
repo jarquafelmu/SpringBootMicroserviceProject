@@ -2,8 +2,6 @@ package com.terrazasdesigns.productservice.dto;
 
 import java.math.BigDecimal;
 
-import org.springframework.data.annotation.Id;
-
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
